@@ -25,5 +25,6 @@ export class sango_01TestLoadAssets extends BaseWindow
     {
         console.log("We get the string: " + str);
         console.log("We get the numer: " + num);
+        console.log("A new test over");
     }
 }
