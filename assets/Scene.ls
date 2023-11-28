@@ -1,7 +1,6 @@
 {
   "_$ver": 1,
   "_$id": "aspy6ifw",
-  "_$runtime": "res://3b04b905-77d6-4e91-ba89-1a2d04e8ce8a",
   "_$type": "Scene",
   "left": 0,
   "right": 0,
@@ -15,7 +14,7 @@
     },
     {
       "_$type": "3b04b905-77d6-4e91-ba89-1a2d04e8ce8a",
-      "scriptPath": "../src/00BaseConstructor/00SangoCore/00Bases/LayaSingleton.ts"
+      "scriptPath": "../src/00BaseConstructor/00SangoCore/01Bases/LayaSingleton.ts"
     }
   ],
   "_$child": [
@@ -30,7 +29,6 @@
           "_$type": "Material"
         }
       },
-      "ambientMode": 0,
       "ambientColor": {
         "_$type": "Color",
         "r": 0.424308,
@@ -109,13 +107,11 @@
               },
               "intensity": 1,
               "lightmapBakedType": 1,
-              "shadowMode": 0,
               "shadowStrength": 1,
               "shadowDistance": 50,
               "shadowDepthBias": 1,
               "shadowNormalBias": 1,
               "shadowNearPlane": 0.1,
-              "shadowCascadesMode": 0,
               "strength": 1,
               "angle": 0.526,
               "maxBounces": 1024
