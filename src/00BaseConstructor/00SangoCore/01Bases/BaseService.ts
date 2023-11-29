@@ -1,10 +1,15 @@
 import { LayaSingleton } from "./LayaSingleton";
 
-const { regClass, property } = Laya;
+const { regClass } = Laya;
 
 @regClass()
 export class BaseService<T> extends LayaSingleton<T>
 {        
+    onUpdate()
+    {
+        this.OnUpdateLaya();
+    }
+
     public OnInitService(): void
     {
         

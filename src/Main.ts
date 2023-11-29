@@ -1,4 +1,4 @@
-import { BaseService } from "./00BaseConstructor/00SangoCore/00Bases/BaseService";
+
 
 const { regClass, property } = Laya;
 
