@@ -1,15 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\resources",
     "\\src",
     "\\src\\00BaseConstructor",
     "\\src\\00BaseConstructor\\00SangoCore",
-    "\\src\\00BaseConstructor\\00SangoCore\\00Extensions",
-    "\\src\\00BaseConstructor\\00SangoCore\\01Bases",
+    "\\src\\00BaseConstructor\\00SangoCore\\02CacheSystem",
+    "\\src\\00BaseConstructor\\02NetSystem",
+    "\\src\\00BaseConstructor\\02NetSystem\\00Http",
+    "\\src\\00BaseConstructor\\03EventSystem",
     "\\src\\00BaseConstructor\\04ResourceSystem",
     "\\src\\01TestLoadAssets"
   ],
+  "SelectedNode": "\\src\\00BaseConstructor\\02NetSystem\\00Http\\HttpId.ts",
   "PreviewInSolutionExplorer": false
 }
